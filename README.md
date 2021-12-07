@@ -3,5 +3,5 @@
 
 一些命令行使用
 
-go mod init *项目名称*
-go build 
+- go mod init *项目名称*
+- go build 
